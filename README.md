@@ -1,8 +1,11 @@
 Datagrid
 ========
 
-<strong>¿QUE ES UN DATAGRID ?</strong>
+Me encuentro generando la documentaci&oacute;n del proyecto, muy pronto estare terminando.
 
-Un data grid, que viene a significar en castellano rejilla de datos, es una interfaz de usuario bastante típica, que sirve para visualizar información en una tabla. La información suele ser un conjunto de registros, y se suelen mostrar cada uno de ellos en una fila. Además, los data grid suelen tener integradas funcionalidades para la ordenación de los datos y opciones para su edición o borrado entre muchas mas.
+<a href="http://johnsh.github.com/Datagrid/">Sitio oficial del proyecto</a>
+<a href="https://github.com/johnsh/Datagrid/issues">Dudas, sugerencias o problemas aqu&iacute;</a>
 
-<a href="https://github.com/johnsh/Datagrid/issues">Dudas o sugerencias aqu&iacute;</a>
+Pulsen en el Boton New Issuem y asignen la etiqueta correspondiente.
+
+Respondere lo mas pronto posible.
