@@ -1,8 +1,13 @@
 <?php
 /**
- *� Que es un data grid ?
+ *Que es un data grid ?
  *
- *Un data grid, que viene a significar en castellano rejilla de datos, es una interfaz de usuario bastante t�pica,** *que sirve para visualizar informaci�n en una tabla. La informaci�n suele ser un conjunto de registros, y se suelen *mostrar cada uno de ellos en una fila. Adem�s, los data grid suelen tener integradas funcionalidades para la       *ordenaci�n de los datos y opciones para su edici�n o borrado entre muchas mas.
+ *Un data grid, que viene a significar en castellano rejilla de datos, es una 
+ *interfaz de usuario bastante típica,que sirve para visualizar información en una tabla. 
+ *La información suele ser un conjunto de registros, y se suelen mostrar cada 
+ *uno de ellos en una fila. Además, los data grid suelen tener integradas 
+ *funcionalidades para la ordenación de los datos y opciones para su 
+ *edición o borrado entre muchas mas.
  *
  *
  * ******************
