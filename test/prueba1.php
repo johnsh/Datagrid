@@ -1,5 +1,5 @@
 <?php
-require_once('../Aco_DataGrid.php');
+require_once('Aco_DataGrid.php');
 $dataGrid = new Aco_DataGrid;
 
 
