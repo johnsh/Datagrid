@@ -17,9 +17,11 @@ $campos = array('ID' => 'id',
 				'Fecha' => 'fecha',
 				'Observacion' => 'observacion');
 
-
+// Instancia del datagrid
 $grid = new Aco_DataGrid;
+// Parametros de inicio
 $grid->iniciar($sql, '', $campos, '', array(1, 6, 2));
+// Renderiza el datagrid
 $grid->gridMostrar();
 
 
