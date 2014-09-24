@@ -44,8 +44,8 @@
  *
  *
  * @package Aco_DataGrid
- * @author sebastian80_23 arroba hotmail.com   -> http://www.forosdelweb.com/miembros/acoevil/
- * @copyright 2009
+ * @author sebastian80_23 arroba hotmail.com o Skype acoevil  -> http://www.forosdelweb.com/miembros/acoevil/
+ * @copyright 2014
  * @version 1.3 BETA
  * @access public
  */
@@ -860,7 +860,11 @@ class Aco_DataGrid
                  }
 		echo '</table>';
                 echo '</div>';
-	 }
+	}
+
+    public function test_1(){
+        return true;
+    } 
 
 }
 
