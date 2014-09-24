@@ -1,1 +1,1 @@
-phpunit --coverage-html ./report prueba1.php
+phpunit --coverage-text ./report prueba1.php
