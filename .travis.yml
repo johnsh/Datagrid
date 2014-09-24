@@ -6,7 +6,7 @@ php:
   - 5.6
 
 before_script:
-  - pear install pear/PHPUnit
+  - pear version
 
 
 script: phpunit --coverage-text ./test/report prueba1.php
